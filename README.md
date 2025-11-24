@@ -1,4 +1,4 @@
-# 📊 PROJETO APLICADO I
+# 📊 PROJETO APLICADO III
 
 Repositório criado para possibilitar o desenvolvimento das entregas relacionadas às aulas do curso 'Projeto Aplicado 3' da turma de Banco de Dados EAD do Mackenzie.
 
