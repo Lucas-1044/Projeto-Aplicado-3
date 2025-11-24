@@ -8,5 +8,6 @@ Este projeto tem como objetivo desenvolver um sistema de recomendação de livro
 
 # 👥 Grupo - Projeto Aplicado 11
 
-João Pedro Oliveira Pineda – RA 10433696 
+João Pedro Oliveira Pineda – RA 10433696
+
 Lucas José de Carvalho Anastácio - RA 10441680 
