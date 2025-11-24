@@ -1,10 +1,10 @@
-# 📊 PROJETO APLICADO III
+# 📊 PROJETO APLICADO III - Grupo 25
 
 Repositório criado para possibilitar o desenvolvimento das entregas relacionadas às aulas do curso 'Projeto Aplicado 3' da turma de Banco de Dados EAD do Mackenzie.
 
 # 📌 Objetivo do estudo
 
-Este projeto tem como objetivo desenvolver um sistema de recomendação de livros, comum algoritimo que personalize recomendações de leitura de acordo com o perfil de avaliação e gostos do usuário e semelhantes.
+Este projeto busca apoiar a reversão da queda nos índices de leitura por meio de um sistema de recomendação de livros personalizado. Utilizando dados do Goodreads e técnicas de Machine Learning, o modelo pretende ampliar o acesso a conteúdos diversos, incentivando a leitura e contribuindo para os objetivos do ODS 4 da ONU.
 
 # 👥 Grupo - Projeto Aplicado 11
 
